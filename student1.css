@@ -1,0 +1,18 @@
+body{
+    margin: 1px;
+    padding: 5px;
+    line-height:1.15;
+    border:1px solid black;
+	 display: inline-block;
+ }
+
+ main img{
+   border: 5px dashed green;
+   display: inline-block;
+   width: 24%;
+   padding: min 10px;
+   margin: 0px;
+   box-sizing: border-box;
+
+ }
+
